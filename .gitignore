@@ -33,3 +33,40 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Mistakes from local files
+.vs/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp.csproj
+Assets/Editor.meta
+Assets/Editor/
+Assets/Material.meta
+Assets/Material/
+Assets/Prefab.meta
+Assets/Prefab/
+Assets/Scripts/Blocks.meta
+Assets/Scripts/Blocks/
+Assets/Scripts/Bullets.meta
+Assets/Scripts/Bullets/
+Assets/Scripts/Characters.meta
+Assets/Scripts/Characters/
+Assets/Scripts/GameController.cs
+Assets/Scripts/GameController.cs.meta
+Assets/Scripts/Gun.cs
+Assets/Scripts/Gun.cs.meta
+Assets/Scripts/IDamageable.cs
+Assets/Scripts/IDamageable.cs.meta
+Assets/Scripts/PersonBackup.cs
+Assets/Scripts/PersonBackup.cs.meta
+Assets/Scripts/Resources.meta
+Assets/Scripts/Resources/
+Assets/Standard Assets.meta
+Assets/Standard Assets/
+Assets/agent.cs
+Assets/agent.cs.meta
+Library/
+RealFSM.sln
+obj/
+
+
